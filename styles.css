@@ -1,0 +1,48 @@
+body {
+    background: navy;
+    color: white;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.header {
+    display: flex;
+    flex:1 100%;
+    justify-content: center;
+}
+
+h3 {
+    justify-content: center;
+    margin-left:30%;
+    margin-right:30%;
+}
+.intro #prompt {
+    display: flex;
+    justify-content: center;
+    margin-left: 40%;
+    margin-right: 20%;
+}
+
+p .clues {
+    flex: 2 20%;
+}
+
+img{
+    display: none;
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+    margin-left: 35%;
+    margin-right: 40%;
+}
+
+p {
+    display: none;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+#treeButton {
+    display: none;
+    justify-content: center;
+    margin-left: 47%;
+}
